@@ -1,0 +1,15 @@
+{
+    "registros_encontrados":2,
+    "registros":{
+        "registro_1":{
+            "id":1,
+            "nome":"Ana",
+            "idade":23
+        },
+        "registro_2":{
+            "id":4,
+            "nome":"Ana",
+            "idade":29
+        }
+    }
+}

@@ -3,6 +3,7 @@ from components.save_json_file import save_json_file
 from components.search_name import search_name
 
 def script_2():
+    print("***SCRIPT 2***")
     file_csv = "C:/Users/gribe/OneDrive/Documentos/Codes/INFNET/2024.1/Python para Dados/TPs/TP3/resources/database.csv"
     df = load_data(file_csv)
 
