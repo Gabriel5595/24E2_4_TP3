@@ -1,0 +1,21 @@
+id,nome,idade,cidade_nascimento,estado_nascimento,escolaridade,num_filhos,num_celulares
+1,Ana,23,São Paulo,SP,Ensino Médio,2,1
+2,Bruno,35,Rio de Janeiro,RJ,Ensino Superior,1,2
+3,Carlos,45,Belo Horizonte,MG,Ensino Superior,0,1
+4,Ana,29,Salvador,BA,Ensino Médio,3,2
+5,Eduardo,34,Fortaleza,CE,Ensino Médio,2,1
+6,Fernanda,41,Curitiba,PR,Ensino Superior,0,2
+7,Gustavo,28,Manaus,AM,Ensino Médio,1,1
+8,Heloísa,39,Recife,PE,Ensino Médio,4,3
+9,Isabela,40,Porto Alegre,RS,Ensino Superior,2,1
+10,João,50,Brasília,DF,Ensino Médio,0,2
+11,Karina,31,Goiânia,GO,Ensino Superior,1,1
+12,Lucas,27,Belém,PA,Ensino Médio,3,3
+13,Maria,26,Florianópolis,SC,Ensino Superior,2,2
+14,Nina,32,São Luís,MA,Ensino Médio,1,1
+15,Otávio,47,Maceió,AL,Ensino Médio,0,2
+16,Paula,36,Natal,RN,Ensino Superior,3,1
+17,Ricardo,38,João Pessoa,PB,Ensino Médio,2,3
+18,Sara,44,Teresina,PI,Ensino Superior,1,2
+19,Tomás,30,Aracaju,SE,Ensino Médio,0,1
+20,Vera,33,Campo Grande,MS,Ensino Médio,3,2
